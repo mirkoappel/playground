@@ -1,6 +1,6 @@
 {
-    "name": "playground",
-    "description": "a playgound description",
+    "name": "basic-node-express-playground",
+    "description": "a very basic node express dev envionment",
     "authors": "Mirko Appel",
     "version": "0.0.1",
     "main": "pathToMain",
